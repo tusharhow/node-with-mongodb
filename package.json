@@ -1,0 +1,19 @@
+{
+  "name": "node_mongodb",
+  "version": "1.2.0",
+  "description": "This is our node and mongo project",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git init"
+  },
+  "author": "Tushar",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.6.4"
+  }
+}
